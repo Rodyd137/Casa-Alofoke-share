@@ -65,7 +65,7 @@ function cryptoRandom() {
 
 function defaultRoster() {
   return [
-    { id: cryptoRandom(), name: "Mami Kim", votes: 0, ig: "mamikimreal" },
+    { id: cryptoRandom(), name: "Mami Kim", votes: 2690, ig: "mamikimreal" },
     { id: cryptoRandom(), name: "Vladimir Gómez", votes: 0, ig: "justvladyg" },
     { id: cryptoRandom(), name: "Crusita", votes: 0, ig: "crusita___" },
     { id: cryptoRandom(), name: "Luise", votes: 0, ig: "luisemartinezz12" },
