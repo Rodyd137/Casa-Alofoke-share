@@ -66,15 +66,15 @@ function cryptoRandom() {
 function defaultRoster() {
   return [
     { id: cryptoRandom(), name: "Mami Kim", votes: 2690, ig: "mamikimreal" },
-    { id: cryptoRandom(), name: "Vladimir Gómez", votes: 0, ig: "justvladyg" },
-    { id: cryptoRandom(), name: "Crusita", votes: 0, ig: "crusita___" },
-    { id: cryptoRandom(), name: "Luise", votes: 0, ig: "luisemartinezz12" },
-    { id: cryptoRandom(), name: "La Gigi", votes: 0, ig: "lagigird" },
-    { id: cryptoRandom(), name: "Karola", votes: 0, ig: "karolalcendra_" },
-    { id: cryptoRandom(), name: "La Peki", votes: 0, ig: "lapekipr" },
-    { id: cryptoRandom(), name: "Crazy Design", votes: 0, ig: "crazydesignrd" },
-    { id: cryptoRandom(), name: "Sr. Jiménez", votes: 0, ig: "yosoyjimenez_" },
-    { id: cryptoRandom(), name: "Giuseppe Benignini", votes: 0, ig: "gbenignini" },
+    { id: cryptoRandom(), name: "Vladimir Gómez", votes: 4910, ig: "justvladyg" },
+    { id: cryptoRandom(), name: "Crusita", votes: 6380, ig: "crusita___" },
+    { id: cryptoRandom(), name: "Luise", votes: 5030, ig: "luisemartinezz12" },
+    { id: cryptoRandom(), name: "La Gigi", votes: 5950, ig: "lagigird" },
+    { id: cryptoRandom(), name: "Karola", votes: 5210, ig: "karolalcendra_" },
+    { id: cryptoRandom(), name: "La Peki", votes: 4820, ig: "lapekipr" },
+    { id: cryptoRandom(), name: "Crazy Design", votes: 5480, ig: "crazydesignrd" },
+    { id: cryptoRandom(), name: "Sr. Jiménez", votes: 6720, ig: "srj23_" },
+    { id: cryptoRandom(), name: "Giuseppe Benignini", votes: 4910, ig: "gbenignini" },
   ];
 }
 
